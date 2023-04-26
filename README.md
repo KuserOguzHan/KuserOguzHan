@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hannoguz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hannoguz" height="30" width="40" /></a>
 <a href="https://medium.com/@hanoguz.mec.eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hanoguz.mec.eng" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@oguzhankuser" target="blank"><img align="center" src="https://github.com/KuserOguzHan/githup_face/blob/main/youtube-logo-png-3575.png" alt="@oguzhankuser" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
