@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Han</h1>
 <h3 align="center">A multidisciplinary Mechatronics Engineer who researches and applies on Data Science.</h3>
 
-- 🌱 I’m currently learning *ML Ops*
+- 🌱 I’m currently learning *DATA OPS*
 
 - 📝 I regularly write articles on [https://medium.com/@hanoguz.mec.eng](https://medium.com/@hanoguz.mec.eng)
 
