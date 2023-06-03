@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning *DATA OPS*
 
-- 📝 I regularly write articles on [https://medium.com/@hanoguz.mec.eng](https://medium.com/@hanoguz.mec.eng)
-
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
