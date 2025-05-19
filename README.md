@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Han</h1>
+<h1 align="center">Hi 👋, I'm HAN</h1>
 <h3 align="center">A multidisciplinary Mechatronics Engineer who researches and applies on Data Science.</h3>
 
-- 🌱 I’m currently learning *DATA OPS*
+- 🌱
 
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [End-to-end Linear Regression Project in PySpark | Part 1](https://medium.com/@hanoguz.mec.eng/end-to-end-linear-regression-project-in-pyspark-part-1-9fa3374cc256)
-- [End-to-end Linear Regression Project in PySpark | Part 2](https://medium.com/@hanoguz.mec.eng/end-to-end-linear-regression-project-in-pyspark-part-2-16c33d1fca75)
-- [End-to-end Linear Regression Project in PySpark | Part 3](https://medium.com/@hanoguz.mec.eng/end-to-end-linear-regression-project-in-pyspark-part-3-41593078a1b)
+
 <!-- BLOG-POST-LIST:END -->
 
 
