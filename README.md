@@ -6,11 +6,9 @@
 ---
 
 ### 👋 About Me
-
-> *“I build systems that think, learn, and scale.”*
+> *"I build systems that think, learn, and scale."*
 
 Hey there! I'm **Han**, a Mechatronics Engineer who loves to blend mechanics, code, and intelligence into functional systems. I believe in **end-to-end thinking** — from raw sensor data to cloud-deployed ML models in production.
-
 - 🧠 Obsessive about clean pipelines & reliable automation  
 - 🛠️ Turning raw data into refined models  
 - ☁️ MLOps, DevOps & everything in between  
@@ -18,7 +16,6 @@ Hey there! I'm **Han**, a Mechatronics Engineer who loves to blend mechanics, co
 ---
 
 ### 🔧 Stack Highlights
-
 | Domain | Tools & Tech |
 |--------|--------------|
 | **Languages** | `Python` `SQL` `Bash` |
@@ -31,7 +28,6 @@ Hey there! I'm **Han**, a Mechatronics Engineer who loves to blend mechanics, co
 ---
 
 ### 🔥 What I'm Cooking Now
-
 - 🧪 Experimenting with **automated ML workflows**  
 - 🎯 Learning **KubeFlow** for production-grade ML  
 - 📝 Writing about my MLOps journey on [Medium](https://medium.com/@hanoguz.mec.eng)
@@ -39,7 +35,6 @@ Hey there! I'm **Han**, a Mechatronics Engineer who loves to blend mechanics, co
 ---
 
 ### 🌐 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/hannoguz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
   <a href="https://medium.com/@hanoguz.mec.eng" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" /></a>
@@ -49,7 +44,6 @@ Hey there! I'm **Han**, a Mechatronics Engineer who loves to blend mechanics, co
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KuserOguzHan&show_icons=true&theme=radical" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuserOguzHan&theme=radical" width="400"/>
@@ -58,12 +52,10 @@ Hey there! I'm **Han**, a Mechatronics Engineer who loves to blend mechanics, co
 ---
 
 ### 🎥 Just for Fun
-
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
   <br/>
-  <em>“A system that learns is a system that evolves.”</em>
+  <em>"A system that learns is a system that evolves."</em>
 </p>
 
 ---
-
