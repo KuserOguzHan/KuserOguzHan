@@ -1,54 +1,61 @@
-<h1 align="center">Hi, I'm Han 👋</h1>
-<h3 align="center">Data-centric Engineer | DevOps, DataOps & MLOps Expert | Industrial AI Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Han!;DataOps+%7C+MLOps+%7C+DevOps+Engineer;Production+First+Mindset+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250"/>
+</p>
 
 ---
 
-### 🧠 About Me
+### ⚙️ About Me
 
-> “I don’t just analyze data — I architect systems that make data work at scale.”
+I architect **end-to-end production pipelines** that transform **raw industrial data** into **real-time insights** and **actionable intelligence**.
 
-I'm a **Mechatronics Engineer** with a strong backbone in **industrial data systems**, and a passion for building scalable, reliable, and intelligent pipelines from sensor to service.
-
-My focus is on designing **production-grade data and machine learning infrastructure**, using robust DevOps/MLOps methodologies and automation tools.
+- 🧠 Strong background in industrial systems & automation  
+- 💻 Expert in building MLOps, DevOps, and DataOps infrastructures  
+- 🌐 Cloud-native solutions with AWS, Kubernetes, Docker  
+- 🧪 Efficient deployment of ML models using PyTorch & TensorFlow  
 
 ---
 
-### 💡 Core Competencies
+### 🧰 Tech Stack
 
-- 🔧 **Data Engineering & DataOps**
-  - PostgreSQL, InfluxDB, ElasticSearch
-  - FastAPI, ETL Pipelines, Time-Series Systems
-  - Real-time and batch data processing
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-- 🚀 **MLOps & Machine Learning**
-  - PyTorch, TensorFlow, Scikit-learn
-  - CI/CD for ML: MLflow, Jenkins, GitHub Actions
-  - Model monitoring, versioning, deployment
+---
 
-- ☁️ **Cloud & DevOps**
-  - Docker & Kubernetes for container orchestration
-  - Cloud: AWS (EC2, S3, Lambda, SageMaker)
-  - Infrastructure as Code (IaC), logging, and observability
+### 🚀 Live In Action
 
-- 🔐 **Production-first Mindset**
-  - Scalable architecture
-  - Fault-tolerant pipelines
-  - Security & maintainability by design
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
+</p>
+
+> *“From sensor data to scalable service — let’s automate everything.”*
 
 ---
 
 ### 📂 Featured Projects
 
-> *(Coming soon: real projects from data to production — stay tuned!)*
+- 🔍 **Anomaly Detection in Industrial Time Series**  
+- ⚙️ **CI/CD Pipeline for Deep Learning Models**  
+- 🧪 **Sensor Data Processing with FastAPI + PostgreSQL**  
+- 📡 **Real-Time Dashboards using InfluxDB & Grafana**
 
-- 🛠️ Industrial Predictive Maintenance with FastAPI + PyTorch  
-- 📡 Sensor-to-Dashboard Time Series Analytics using InfluxDB & Elastic  
-- 🔄 CI/CD Pipeline for ML Models on AWS SageMaker  
-- 🧪 Automated Model Training & Validation with Dockerized MLflow  
+> _→ Project links coming soon..._
 
 ---
 
-### 📡 Connect with Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hannoguz/" target="_blank">
@@ -61,10 +68,10 @@ My focus is on designing **production-grade data and machine learning infrastruc
 
 ---
 
-### 🎥 Just for Fun
+### 🎯 Motto
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
   <br/>
-  <em>“Code hard. Ship smart. Stay sharp.”</em>
+  <em>“Code like an engineer. Think like a system.”</em>
 </p>
