@@ -59,11 +59,7 @@ Hey there! I'm **Han**, a Mechatronics Engineer who loves to blend mechanics, co
 
 ### 🎥 Just for Fun
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-  <br/>
-  <em>“A system that learns is a system that evolves.”</em>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" /> <br/> <em>“Code hard, stay sharp.”</em> </p>
 
 ---
 
