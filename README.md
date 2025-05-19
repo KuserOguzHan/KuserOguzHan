@@ -44,9 +44,6 @@ I'm a multidisciplinary <b>Mechatronics Engineer</b> with a passion for building
   <a href="https://www.linkedin.com/in/hannoguz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@hanoguz.mec.eng">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
   <a href="https://www.youtube.com/@oguzhankuser">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
@@ -139,9 +136,9 @@ I'm a multidisciplinary <b>Mechatronics Engineer</b> with a passion for building
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Robust ML Pipelines with MLflow and Airflow](https://medium.com/@hanoguz.mec.eng)
-- [From Prototype to Production: MLOps Best Practices](https://medium.com/@hanoguz.mec.eng)
-- [Containerizing ML Models for Scalable Deployment](https://medium.com/@hanoguz.mec.eng)
+- [Building Robust ML Pipelines with MLflow and Airflow](https://www.youtube.com/@oguzhankuser)
+- [From Prototype to Production: MLOps Best Practices](https://www.youtube.com/@oguzhankuser)
+- [Containerizing ML Models for Scalable Deployment](https://www.youtube.com/@oguzhankuser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
