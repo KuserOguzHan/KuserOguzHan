@@ -120,19 +120,6 @@ I'm a multidisciplinary <b>Mechatronics Engineer</b> with a passion for building
 
 ---
 
-## 🚀 Current Projects
-
-<div align="center">
-<a href="https://github.com/KuserOguzHan/mlops-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KuserOguzHan&repo=mlops-project&theme=tokyonight" />
-</a>
-<a href="https://github.com/KuserOguzHan/data-pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KuserOguzHan&repo=data-pipeline&theme=tokyonight" />
-</a>
-</div>
-
----
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
