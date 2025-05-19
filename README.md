@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="500" />
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+I'm+Han+%F0%9F%91%8B;Data+%26+MLOps+Engineer;Mechatronics+Expert;Building+Tomorrow's+Systems" alt="Typing SVG" />
 </h1>
