@@ -1,22 +1,65 @@
 <h1 align="center">Hi 👋, I'm HAN</h1>
-<h3 align="center">A multidisciplinary Mechatronics Engineer who researches and applies on Data Science.</h3>
+<h3 align="center">A Multidisciplinary Mechatronics Engineer Passionate About Data, DevOps & MLOps</h3>
 
-- 🌱
-
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:END -->
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hannoguz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hannoguz" height="30" width="40" /></a>
-<a href="https://medium.com/@hanoguz.mec.eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hanoguz.mec.eng" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@oguzhankuser" target="blank"><img align="center" src="https://github.com/KuserOguzHan/githup_face/blob/main/youtube-logo-png-3575.png" alt="@oguzhankuser" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data science gif">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+---
 
+🌱 **Currently Learning & Exploring:**  
+- MLOps best practices  
+- Cloud-native data pipelines (GCP | Docker | Kubernetes)  
+- Scalable model deployment (TensorFlow, PyTorch, FastAPI)
+
+🧠 **Experienced In:**  
+- Data Wrangling & EDA  
+- ML Model Building & Evaluation  
+- CI/CD with Jenkins & GitHub Actions  
+- Monitoring with Prometheus & Grafana  
+- Version control & automation with Git & Bash  
+
+📫 **Reach Me At:**
+<p align="left">
+  <a href="https://www.linkedin.com/in/hannoguz/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /></a>
+  <a href="https://medium.com/@hanoguz.mec.eng" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="30" /></a>
+  <a href="https://www.youtube.com/@oguzhankuser" target="_blank"><img src="https://github.com/KuserOguzHan/githup_face/blob/main/youtube-logo-png-3575.png" width="30" /></a>
+</p>
+
+---
+
+🛠️ **Technologies & Tools:**
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" title="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" title="Jenkins" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" title="Seaborn" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" title="OpenCV" />
+</p>
+
+---
+
+📖 **Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KuserOguzHan&show_icons=true&theme=dracula" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuserOguzHan&theme=dracula" alt="streaks" />
+</p>
+
+---
+
+💬 *“Transforming Data into Actionable Intelligence.”*
